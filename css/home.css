@@ -172,11 +172,5 @@ nav#menu a {
 
 }
 
-audio#music {
-	display: block;
-	position: fixed;
-    margin-left: 85px;
-	top: 650px;
-    width: 100px;
     
 }

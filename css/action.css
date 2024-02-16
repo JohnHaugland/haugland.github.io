@@ -43,7 +43,7 @@ body {
     width: 700px;
     margin-top: 50px;
     margin-left: 350px;
-    color: lemonchiffon;
+    color: red;
 }
 
 .top img {
@@ -63,7 +63,7 @@ body {
 
 .movies h1 {
     text-align: center;
-    color: lemonchiffon;
+    color: red;
 }
 
 .movies p {
@@ -71,7 +71,7 @@ body {
     width: 700px;
     font-size: 25px;
 
-    color: lemonchiffon;
+    color: red;
 }
 
 .movies img {

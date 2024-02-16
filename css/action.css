@@ -24,12 +24,12 @@ body {
 .wordart.radial .text {
     background: #fffa28;
     background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…BoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-    background: -moz-radial-gradient(center, ellipse cover, #000000 0%, #8B0000 100%);
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #000000), color-stop(100%, #8B0000));
+    background: -moz-radial-gradient(center, ellipse cover, #000000 0%, #FF0000 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #000000), color-stop(100%, #FF0000));
     background: -webkit-radial-gradient(center, ellipse cover, #000000 0%, #8B0000 100%);
-    background: -o-radial-gradient(center, ellipse cover, #000000 0%, #8B0000 100%);
+    background: -o-radial-gradient(center, ellipse cover, #000000 0%, #FF0000 100%);
     background: -ms-radial-gradient(center, ellipse cover, #000000 0%, #8B0000 100%);
-    background: radial-gradient(ellipse at center, #000000 0%, #8B0000 100%);
+    background: radial-gradient(ellipse at center, #000000 0%, #FF0000 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
